@@ -27,13 +27,13 @@
   },
   "dependencies": {
     "underscore": "1.8.3",
-    "mongoose": "4.3.4"
+    "mongoose": "^5.4.20"
   },
   "devDependencies": {
     "blanket": "1.1.6",
-    "coveralls": "2.11.2",
-    "jshint": "2.6.0",
-    "mocha": "2.1.0",
+    "coveralls": "^3.0.5",
+    "jshint": "^2.10.2",
+    "mocha": "^6.1.4",
     "mocha-lcov-reporter": "0.0.1",
     "q": "1.1.2"
   },
